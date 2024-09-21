@@ -1,0 +1,6 @@
+[submodule "Applications/Mobile-Application/CoalWorks-App"]
+	path = Applications/Mobile-Application/CoalWorks-App
+	url = https://github.com/BlackEmpir7199/CoalWorks-App
+[submodule "Applications/Web-Application/CoalWorks-Web"]
+	path = Applications/Web-Application/CoalWorks-Web
+	url = https://github.com/Alien501/CoalWorks-Web
